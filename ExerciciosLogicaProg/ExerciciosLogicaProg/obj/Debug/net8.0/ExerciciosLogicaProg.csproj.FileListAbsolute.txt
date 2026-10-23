@@ -1,0 +1,15 @@
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\bin\Debug\net8.0\ExerciciosLogicaProg.exe
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\bin\Debug\net8.0\ExerciciosLogicaProg.deps.json
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\bin\Debug\net8.0\ExerciciosLogicaProg.runtimeconfig.json
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\bin\Debug\net8.0\ExerciciosLogicaProg.dll
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\bin\Debug\net8.0\ExerciciosLogicaProg.pdb
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\ExerciciosLogicaProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\ExerciciosLogicaProg.AssemblyInfoInputs.cache
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\ExerciciosLogicaProg.AssemblyInfo.cs
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\ExerciciosLogicaProg.csproj.CoreCompileInputs.cache
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\ExerciciosLogicaProg.dll
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\refint\ExerciciosLogicaProg.dll
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\ExerciciosLogicaProg.pdb
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\ExerciciosLogicaProg.genruntimeconfig.cache
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\ref\ExerciciosLogicaProg.dll
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\ExerciciosLogicaProg\obj\Debug\net8.0\Exercici.C8479BFC.Up2Date

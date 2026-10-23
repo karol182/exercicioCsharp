@@ -1,0 +1,15 @@
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\bin\Debug\net8.0\Aula05Csharp.exe
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\bin\Debug\net8.0\Aula05Csharp.deps.json
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\bin\Debug\net8.0\Aula05Csharp.runtimeconfig.json
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\bin\Debug\net8.0\Aula05Csharp.dll
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\bin\Debug\net8.0\Aula05Csharp.pdb
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\Aula05Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\Aula05Csharp.AssemblyInfoInputs.cache
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\Aula05Csharp.AssemblyInfo.cs
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\Aula05Csharp.csproj.CoreCompileInputs.cache
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\Aula05Csharp.dll
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\refint\Aula05Csharp.dll
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\Aula05Csharp.pdb
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\Aula05Csharp.genruntimeconfig.cache
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\ref\Aula05Csharp.dll
+C:\Users\49392707851\Desktop\Karol C#\ExerciciosLogicaProg\Aula05Csharp\obj\Debug\net8.0\Aula05Cs.170E3E40.Up2Date
