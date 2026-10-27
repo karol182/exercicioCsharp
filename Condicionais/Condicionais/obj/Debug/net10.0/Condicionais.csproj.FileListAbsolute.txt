@@ -1,0 +1,16 @@
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\bin\Debug\net10.0\Condicionais.exe
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\bin\Debug\net10.0\Condicionais.deps.json
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\bin\Debug\net10.0\Condicionais.runtimeconfig.json
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\bin\Debug\net10.0\Condicionais.dll
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\bin\Debug\net10.0\Condicionais.pdb
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicionais.AssemblyInfo.cs
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicionais.sourcelink.json
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicionais.dll
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\refint\Condicionais.dll
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicionais.pdb
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicionais.genruntimeconfig.cache
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\ref\Condicionais.dll
+C:\Users\49392707851\Desktop\Karol C#\Condicionais\Condicionais\obj\Debug\net10.0\Condicio.63DF86BF.Up2Date
